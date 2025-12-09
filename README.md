@@ -1,5 +1,8 @@
 # Portfolio-Optimization-using-Markowitz-Model
 
+* Link:
+https://docs.google.com/spreadsheets/d/1ffN1hBVBPDzdqAROyCs8bNsWUcFgQzgjMOwAfx17aVc/edit?usp=sharing
+
 ### Calculations
 ![Calculations](ratios.png)
 
